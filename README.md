@@ -1,4 +1,4 @@
-# Bank Term Deposit Subscription Prediction
+# Bank Marketing Campaign Analysis
 
 This project applies machine learning techniques to predict whether a client will subscribe to a term deposit based on data from a Portuguese bank's marketing campaign. It uses Logistic Regression and Random Forest classifiers to model and evaluate performance on the UCI Bank Marketing Dataset.
 
